@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Dezhi Luo 👋
+History grad moving into data analytics — completing the Google Data Analytics Professional Certificate (spreadsheets, SQL, data cleaning, visualization).
+🔭 Currently: finishing the Google DA cert & applying for data-analyst roles
+🛠 Skills: Advanced Excel, Google Sheets, SQL (learning), data cleaning, Git & GitHub
+💼 Background: KYC/compliance + financial-analysis internships (ICBC)
+🔗 Links: [Resume](WIP) · [LinkedIn](https://www.linkedin.com/in/dezhi-luo-96b530239/) · [Email](mailto:luodezhi290@gmail.com)
 
 <!--
 **dluo3986-byte/dluo3986-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
